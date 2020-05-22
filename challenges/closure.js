@@ -37,3 +37,21 @@ function sumation(number) {
 }
 
 console.log(sumation(4));
+
+
+// function sumation(number) {
+//   let numArray = []
+//   for(let i=1; i = number; i++){
+//     numArray.push(i);
+//   }
+//   function counter() {
+//     let sum = 0
+//     for(let i=0; i <= numArray.length; i++){
+//       sum + numArray[i];
+//     }
+//     return sum;
+//   }
+//   counter();
+// }
+
+// console.log(sumation(4));
